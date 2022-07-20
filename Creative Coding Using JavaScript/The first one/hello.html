@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+    <canvas width="600" height="600"></canvas>
+
+<script>
+
+    let canvas = document.querySelector('canvas');
+    let context = canvas.getContext('2d');
+
+    context.fillStyle = 'blue';
+    //context.fillRect(100, 100, 400, 400);
+
+    context.lineWidth = 4;
+    context.beginPath();
+    context.rect(100, 100, 400, 400);
+    context.stroke();
+
+    context.beginPath();
+    context.arc(300,300,100,0, Math.PI * 2);
+    context.stroke();
+
+  //declaração de variaveis
+  let year = 2024;
+  let nextYear = year + 1;
+
+  let dinner = 'pasta';
+  let sentence = 'tonigh, dinner will be ' + dinner;
+
+  //declaração de uma funcao
+  function saysomething(param){
+    console.log(param);
+  }
+
+  saysomething(sentence);
+
+  function add(a, b){
+    return a + b;
+  }
+  
+  let result = add(5, 7);
+  console.log(result);
+
+
+  let multiply = (a, b) => {
+    return a * b;
+  }
+  
+
+  console.log(multiply(5, 7));
+</script>
+
+  </body>
+</html>
