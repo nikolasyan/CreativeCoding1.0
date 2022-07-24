@@ -2,6 +2,9 @@
 
 Here are some projects I created while studying JavaScript!
 
+Animated lines:
+
+![2022-07-24-19-03-03](https://user-images.githubusercontent.com/106313973/180667609-9889d3d3-506a-486a-9c7f-341c50570557.gif)
 
 Random Squares:
 
