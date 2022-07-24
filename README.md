@@ -7,3 +7,4 @@ Here are some projects I created while studying JavaScript!
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/106313973/180620720-a1c56151-dca3-487d-a42b-bcc2a2aec21f.gif)
 
+![2022-07-24-13-14-42](https://user-images.githubusercontent.com/106313973/180656395-51506551-8e2d-47d8-864a-84d6477566fb.gif)
