@@ -18,9 +18,8 @@ const sketch = ({ context, width, height }) => {
 	}
 
 	return ({ context, width, height }) => {
-		context.fillStyle = 'white';
+		context.fillStyle = 'red';
 		context.fillRect(0, 0, width, height);
-
 		for (let i = 0; i < agents.length; i++) {
 			const agent = agents[i];
 
@@ -32,7 +31,7 @@ const sketch = ({ context, width, height }) => {
 				if (dist > 200) continue;
 
 				context.lineWidth = math.mapRange(dist, 0, 200, 12, 1);
-
+        
 				context.beginPath();
 				context.moveTo(agent.pos.x, agent.pos.y);
 				context.lineTo(other.pos.x, other.pos.y);
@@ -60,6 +59,7 @@ class Vector {
 		const dx = this.x - v.x;
 		const dy = this.y - v.y;
 		return Math.sqrt(dx * dx + dy * dy);
+    
 	}
 }
 
@@ -83,14 +83,12 @@ class Agent {
 	draw(context) {
 		context.save();
 		context.translate(this.pos.x, this.pos.y);
-
 		context.lineWidth = 4;
-
 		context.beginPath();
 		context.arc(0, 0, this.radius, 0, Math.PI * 2);
+    context.fillStyle = 'white';
 		context.fill();
 		context.stroke();
-
 		context.restore();
 	}
 }
