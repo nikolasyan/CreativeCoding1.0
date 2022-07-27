@@ -2,6 +2,10 @@
 
 Here are some projects I created while studying JavaScript!
 
+Words composed by different symbols:
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/106313973/181137987-16b7a8c9-3d1a-4188-a258-143692c7df33.gif)
+
 Animated lines:
 
 ![2022-07-24-19-03-03](https://user-images.githubusercontent.com/106313973/180667609-9889d3d3-506a-486a-9c7f-341c50570557.gif)
