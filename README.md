@@ -2,6 +2,11 @@
 
 Here are some projects I created while studying JavaScript!
 
+
+Words composed by different symbols:
+
+![image](https://user-images.githubusercontent.com/106313973/181138913-be76415b-8627-4868-b5c1-973b017b2250.gif)
+
 Words composed by different symbols:
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/106313973/181137987-16b7a8c9-3d1a-4188-a258-143692c7df33.gif)
