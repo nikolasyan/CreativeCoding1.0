@@ -11,7 +11,7 @@ I used JavaScript, Node.Js and canvas-sketch.
 
 -----------------------------------------------------------------------------------------------------
 
-## Words composed by different symbols:
+## Image composed by different symbols:
 
 ![image](https://user-images.githubusercontent.com/106313973/181138913-be76415b-8627-4868-b5c1-973b017b2250.gif)
 
