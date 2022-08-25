@@ -23,7 +23,7 @@ I used JavaScript, Node.Js and canvas-sketch.
 
 ![2022-07-24-19-03-03](https://user-images.githubusercontent.com/106313973/180667609-9889d3d3-506a-486a-9c7f-341c50570557.gif)
 
-## Connecting dots [(View)]([https://nikolasyan.github.io/squares/](https://nikolasyan.github.io/dots/):
+## Connecting dots [(View)](https://nikolasyan.github.io/dots/):
 
 ![2022-07-24-13-14-42](https://user-images.githubusercontent.com/106313973/180656395-51506551-8e2d-47d8-864a-84d6477566fb.gif)
 
